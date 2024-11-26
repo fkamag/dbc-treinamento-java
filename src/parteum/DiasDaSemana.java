@@ -36,6 +36,8 @@ public class DiasDaSemana {
       default:
         System.out.println("Número inválido");
     }
+
+    ler.close();
   }
 
 }
