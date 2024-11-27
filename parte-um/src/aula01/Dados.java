@@ -1,4 +1,4 @@
-package parteum;
+package parteum.aula01;
 
 public class Dados {
   public String nome = "Ana";
